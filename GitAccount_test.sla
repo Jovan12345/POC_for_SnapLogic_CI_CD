@@ -1,0 +1,30 @@
+{
+    "class_id": "com-snaplogic-snaps-rest-restbasicauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "Partners"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "GitAccount_test"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "password": {
+                "fp": "5537582b5408b627cd4dd4ff1c4b0ed40ea189ffc33ccf49e196ff6901dea522",
+                "key": "account-cloud-managed-55aeb42a050186140d44b424-2015-07-21T21:05:51-432179",
+                "sym_iv": "rLz5M+jGXmEjKt79YMlpaw==",
+                "sym_key": "jEhPQogibk5K+jb3+AUBtcKkfxxDmY6r8eajK8oFRd/AU8lBJV6vn91GCJv5dhsbArnIc2wLWr1mRQtaqBKpXsTexgMYF+Wwda6/o3ff8EhbwLiWewYCGvk5LRE5vMnHsIa4EJcb8b2Lf0LaZQ6VoD5eC47rz1qAZgfLDRkw7RAgOtaDhdneLt9uJ5LngbbIKPaw+W4Xn6da1PpmPChL7K4xUqnjtwHuyHu3YiZqD385kal7QH40IQyYLXSg2JK4yQVZZ6zUkPRH1FlpsrvYtTgPudHi+zfmuHiPMgGxmGxiBc0I/CFFbwJFOU6CWNjvD6SfOPURM6V/xOwMqFuCxg==",
+                "value": "l5ue5OYbbtMEtlQzitiwtg=="
+            },
+            "username": {
+                "value": "SpiroTaleski"
+            }
+        },
+        "view_serial": 100
+    }
+}
